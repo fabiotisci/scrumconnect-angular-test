@@ -28,4 +28,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running e2e tests
 
-Run `ng e2e` to execute the unit tests via [Protractor](https://www.protractortest.org).
+Run `ng e2e` to execute the e2e tests via [Protractor](https://www.protractortest.org).
